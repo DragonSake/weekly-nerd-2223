@@ -91,7 +91,7 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
     </tr>
     <tr>
         <td>Artikel 2</td>
-        <td></td>
+        <td>https://github.com/DragonSake/weekly-nerd-2223/wiki/Artikel-2-ThreeJS</td>
         <td>15 maart / 16:00 - 17:00</td>
     </tr>
     <tr>
